@@ -1,0 +1,223 @@
+{
+  "OurTeam": [
+    {
+      "id": "1",
+      "photo": "http://localhost:4200/assets/images/client1.jpg",
+      "name": "محمد علي ",
+      "title": "خدمة العملاء والدعم الفني"
+    },
+    {
+      "id": "1",
+      "photo": "http://localhost:4200/assets/images/client1.jpg",
+      "name": "سارة حسن ",
+      "title": "إدارة الطلبات والشحن السريع"
+    },
+    {
+      "photo": "http://localhost:4200/assets/images/client1.jpg",
+      "name": "سارة حسن ",
+      "title": "متابعة العروض والخصومات",
+      "id": "2"
+    }
+
+  ],
+  "footer": [
+    {
+      "id": "1",
+      "location": "New Yourk city",
+      "phone": "+1234455664",
+      "email": "demo1122@gmail.com"
+    }
+  ],
+  "customer": [
+    {
+      "id": "1",
+      "fname": "mohamed",
+      "lname": "yahya",
+      "email": "demo1122@gmail.com",
+      "phone": "+1234455664"
+    },
+    {
+      "id": "1",
+      "fname": "mohamed",
+      "lname": "yahya",
+      "email": "demo1122@gmail.com",
+      "phone": "+1234455664"
+    },
+    {
+      "id": "3",
+      "fname": "Adipisci officiis es",
+      "lname": "Rem aut totam fugiat",
+      "email": "Quia qui magnam earu",
+      "phone": "Consectetur exceptu",
+      "txtarea": "Suscipit vitae dolor"
+    },
+    {
+      "fname": "Et dolorem quo incid",
+      "lname": "Vero aut facilis max",
+      "email": "Lorem temporibus sun",
+      "phone": "Quod sint veritatis",
+      "txtarea": "Qui beatae sit nihil",
+      "id": "4"
+    },
+    {
+      "fname": "Quas unde ipsum dol",
+      "lname": "Dolorum aut dolores ",
+      "email": "Dolorum asperiores N",
+      "phone": "Ut necessitatibus eu",
+      "txtarea": "Aliquip est vel id a",
+      "id": "5"
+    },
+    {
+      "fname": "Fugiat repudiandae ",
+      "lname": "Enim nesciunt quasi",
+      "email": "Facere dolor do cupi",
+      "phone": 38,
+      "txtarea": "Quod aliquip est la",
+      "id": "6"
+    },
+    {
+      "id": "3e65",
+      "fname": "mohammed ali",
+      "lname": "osama",
+      "email": "mohammed@gmil.com",
+      "phone": 9900990,
+      "txtarea": "keep calm and love photo girl"
+    },
+    {
+      "id": "3e65",
+      "fname": "mohammed ali",
+      "lname": "osama",
+      "email": "mohammed@gmil.com",
+      "phone": 9900990,
+      "txtarea": "keep calm and love photo girl"
+    },
+    {
+      "id": "cbb8",
+      "fname": "عيساوي",
+      "lname": "موسي احمد",
+      "email": "eisa111@gmail.com",
+      "txtarea": "kjkjkjkjkljkjkj",
+      "phone": 898989898989
+    },
+    {
+      "id": "d8e8",
+      "fname": "عيساوي",
+      "lname": "موسي احمد",
+      "email": "eisa111@gmail.com",
+      "phone": 979898,
+      "txtarea": "989iiuoiuoiu"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "fname": "osama",
+      "lname": "elzero",
+      "email": "admin@gmail.com",
+      "password": "1234567890",
+      "phone": "9223232322323",
+      "role": "admin"
+    },
+    {
+      "id": "542f",
+      "fname": "عيساوي موسي احمد",
+      "email": "eisamosa22@gmail.com",
+      "password": "9898989909090",
+      "role": "user",
+      "phone": 9092200
+    },
+    {
+      "id": "0730",
+      "fname": "عيساوي موسي احمد",
+      "email": "eisa1119890909m09090090@gmail.com",
+      "phone": 9092200,
+      "role": "user",
+      "password": 98989899
+    },
+    {
+      "id": "e9e9",
+      "fname": "ali ahmed",
+      "email": "ali323@gmail.com",
+      "phone": 991220900,
+      "role": "user",
+      "password": 123456
+    },
+    {
+      "id": "fdc9",
+      "fname": "mojahed imam ahmed",
+      "email": "user@gmail.com",
+      "phone": 991220900,
+      "password": "12345679"
+    },
+    {
+      "id": "dcc3",
+      "fname": "azam eisa",
+      "email": "azam@gmail.com",
+      "phone": 991220900,
+      "role": "user",
+      "password": 12345679
+    },
+    {
+      "id": "688e",
+      "fname": "adil hassan",
+      "email": "adil@gmail.com",
+      "phone": 991220900,
+      "role": "user",
+      "password": 0
+    },
+    {
+      "id": "25d7",
+      "fname": "hamada ahmed",
+      "email": "ahmed@gmail.com",
+      "phone": 9112233434,
+      "role": "user",
+      "password": 123456789
+    }
+  ],
+  "whyUs": [
+    {
+      "image": "assets/images/w1.png",
+      "title": "سرعة التنفيذ ",
+      "text": "نضمن لك شحن جواهر فري فاير وشدات ببجي خلال دقائق قليلة فقط، مع تحديث مستمر لحالة الطلب.",
+      "id": "201c"
+    },
+    {
+      "image": "assets/images/w2.png",
+      "title": "اسعار مناسبة ",
+      "text": "نوفر أفضل الأسعار مع عروض خاصة وتخفيضات دائمة لتناسب جميع احتياجات اللاعبين.",
+      "id": "e5c7"
+    },
+    {
+      "image": "assets/images/w3.png",
+      "title": "خدمة عملاء 24/7 ",
+      "text": "فريق الدعم جاهز دائمًا للرد على جميع استفساراتك ومساعدتك في حال واجهت أي مشكلة في الشحن.",
+      "id": "13b0"
+    }
+  ],
+  "whatSayOurCustom": [
+    {
+      "image": "assets/images/w1.png",
+      "title": "expert Mannagement",
+      "text": "Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil. Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natu",
+      "id": "524d"
+    },
+    {
+      "image": "assets/images/w2.png",
+      "title": "Secure Investment",
+      "text": "Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil. Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natu",
+      "id": "8338"
+    },
+    {
+      "image": "assets/images/w3.png",
+      "title": "Instant Trading",
+      "text": "Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil. Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natu",
+      "id": "c6c5"
+    },
+    {
+      "image": "assets/images/w4.png",
+      "title": "Happy Customers",
+      "text": "Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil. Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natu",
+      "id": "7c45"
+    }
+  ]
+}
